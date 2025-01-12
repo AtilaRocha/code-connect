@@ -1,1 +1,1 @@
-# 01-nextjs-course
+# Next.js: tour pelo Next.js Next.js: tour pelo Next.js
